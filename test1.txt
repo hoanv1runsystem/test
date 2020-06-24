@@ -1,1 +1,2 @@
 Lam viec vơi branch test 1
+Thay doi tu test 2 roi merge vao master
